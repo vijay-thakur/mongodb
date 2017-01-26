@@ -1,6 +1,6 @@
 name 'mongodb'
-maintainer 'SourceFuse Technologies'
-maintainer_email 'vijay.singh@sourcefuse.com'
+maintainer 'Company Name'
+maintainer_email 'you@gmail.com'
 license 'all_rights'
 description 'Installs/Configures mongodb'
 long_description 'Installs/Configures mongodb'
