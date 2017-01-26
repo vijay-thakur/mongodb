@@ -1,0 +1,2 @@
+use admin
+rs.initiate()

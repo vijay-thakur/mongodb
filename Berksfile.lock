@@ -1,0 +1,12 @@
+DEPENDENCIES
+  mongodb
+    path: .
+    metadata: true
+
+GRAPH
+  mongodb (0.1.0)
+    yum (>= 0.0.0)
+    yum-epel (>= 0.0.0)
+  yum (3.11.0)
+  yum-epel (0.7.0)
+    yum (>= 3.6.3)
